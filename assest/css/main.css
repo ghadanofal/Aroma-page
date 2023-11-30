@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width:80%;
+    margin: auto;
+    margin-top: 25px;
+    overflow: hidden;
+
+}
+.logo, .list, .icons, .button{
+    display: inline-block;
+    
+}
+.list{
+    width: 40%;
+    list-style: none;
+    margin-left: 50px;
+    
+}
+.logo{
+    width:25%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.list-item{
+    display: inline-block;
+    width:12%;  
+}
+.icons i{
+    font-size:18px;
+    color:blue;
+    font-weight :900px;;
+    padding-right: 15px;
+    padding-top:8px;
+    
+}
+.button{
+    border:1px blue solid;
+    border-radius:25px;
+    padding: 10px 30px;
+}
+.browse{
+    border:1px blue solid;
+    border-radius:25px;
+    background-color: blue;
+    text-align: center;
+    width: 190px;
+    padding: 10px 10px; 
+    margin-top:10px;
+    
+}
+.header-img, .header-content{
+    float:left;
+}
+
+.header-img{
+    float:left;
+    width:40%;
+}
+.header-content{
+width:60%;
+text-align:left ;
+padding-left:100px;
+padding-top: 180px;
+
+}
+.image{
+    width:100%;
+}
+.g{
+    font-size:25px;
+    color:#333;
+}
+
+h1{
+padding: 10px 0;
+margin-top:5px;
+}
+.details{
+    padding: 15px 0;
+}
+.product{
+    margin-top:60px;
+    float:left;
+    width:32%;
+    margin-right: 10px;
+    
+}
+.product img{
+    width:100%;
+}
+.item{
+    float:left;
+    width:25%;
+
+}
+.item img{
+    margin-top:25px;
+}
+.item h3{
+    text-align: center;
+
+}
+h2{
+    padding:15px 0;
+}
+.line{
+border-bottom: 2px solid #384aeb;
+}
+.item p{
+    text-align: center;
+}
+.price{
+    color: blue;
+    font-weight: bold;
+}
+.category{
+    padding:10px;
+}
+.description{
+    font-size: 17px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
